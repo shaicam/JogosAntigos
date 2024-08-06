@@ -134,4 +134,6 @@ footer p{
   .voltar:hover {
     background-color: #880ce0;
     border: 2px solid #ffffff;
+    transition: 0.5s;
+    transform: scale(0.95);
   }

@@ -75,6 +75,7 @@ p {
   justify-content: center;
   align-items: center;
   padding: 20px;
+  transition: 1s;
 }
 
 .container div {
@@ -93,6 +94,8 @@ p {
 .container a:hover {
   background-color: #880ce0;
   border: 2px solid #ffffff;
+  transition: 0.5s;
+  transform: scale(0.95);
 }
 
 .spacei{
@@ -137,6 +140,8 @@ p {
 .sob:hover {
   background-color: #880ce0;
   border: 2px solid #ffffff;
+  transition: 0.5s;
+  transform: scale(0.95);
 }
 
 .final {
@@ -153,6 +158,8 @@ p {
 .final:hover {
   background-color: #880ce0;
   border: 2px solid #ffffff;
+  transition: 0.5s;
+  transform: scale(0.95);
 }
 
 
